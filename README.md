@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atharva-ksh](https://github.com/Atharva-ksh)
 
-- 💬 Ask me about **Machine Learning, AI & LLMs**
+- 💬 Ask me about **Web Development, Machine Learning, AI & LLMs**
 
 - 📫 How to reach me **akshirs1@uci.edu**
 
